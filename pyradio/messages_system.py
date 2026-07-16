@@ -204,7 +204,7 @@ Esc|, |{q}                                      <*>  Exit alternative mode.
 Enter                                           <*>  Copy station to unnamed register.
 a-z| / |0-9                                     <*>  Copy station to named register.
 
-!Registe mode ({open_regs})
+!Register mode ({open_regs})
 {open_regs}                                     <*>  Open registers list.
 a-z| / |0-9                                     <*>  Open named register.
 
@@ -715,7 +715,7 @@ you will not be able to select a default server.
 
     'H_RB_SEARCH': ('RadioBrowser Search Help',
 kb2str(r'''Tab| / |Sh-Tab           <*> Go to next / previous field.
-{j}|, |Up| / |{k}|, |Down           <*> Go to next / previous field vertivally.
+{j}|, |Up| / |{k}|, |Down           <*> Go to next / previous field vertically.
 {h}|, |Left| / |{l}|, |Right        <*>
                                     <*> Go to next / previous field (when
                                     <*> applicable). Also, change counter value.
